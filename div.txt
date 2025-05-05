@@ -13,40 +13,42 @@ Kleber -
 Desenvolvimento de Jogos
 
 Enzo Maia - 
+Azuir -
 
 Gamestart (Roblox, Scratch e Python)
 
 Isaac Félix - Roblox
-Heitor Coelho - 
-Miguel Ali - 
+Miguel Ali - Roblox
 Caleb Alves -
 Joaquim Pickler - 
 David Bezerra - 
-Davi de Oliveira - 
-Inácio Carvalho -
-Miguel Paiva - 
+Davi de Oliveira - Scratch 
+Inácio Carvalho - Python 
+Miguel Paiva - Roblox 
 Gustavo Rocha - Roblox
 Ana Beatriz - Roblox
 Maria Fernanda - Roblox
 Arthur Santos - Roblox
-Pedro Ximenes - 
-Noah Alves - 
-Laís Oliveira - 
+Pedro Ximenes - Scratch 
+Noah Alves - Scratch 
+Laís Oliveira - Roblox
 Henrique Oliveira - 
-Benjamin Freitas -
-Bernardo Barros -
-Samuel Lópes -
+Benjamin Freitas - 
+Bernardo Barros - Roblox
+Samuel Lópes - Scratch 
 Matheus Gurgel - Scratch 
-Diego -
-Gabriel José - 
+Diego - Roblox
+Gabriel José - Roblox
 Matheus Bragança - Scratch
 Mário - Python
-Davi Fernandes - Python
 
 
 Modelagem 3D
 
 Eloisa Freitas - 
+Heitor Coelho - 
+Davi Fernandes - 
+
 
 YouTube 
 
